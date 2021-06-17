@@ -9,11 +9,11 @@ import Ibudget from './Images/ibudget.jpg'
 import Footer from './components/Footer/Footer'
 
 const arr = [
-  {title:"hello", link: "something", imageURL:Weather},
-  {title:"hello", link: "something", imageURL:NoteTaker},
-  {title:"hello", link: "something", imageURL:Nyt},
-  {title:"hello", link: "something", imageURL:Password},
-  {title:"hello", link: "something", imageURL:Ibudget},
+  {title:"Weather Forecast", link: "something", imageURL:Weather},
+  {title:"Note Taker", link: "something", imageURL:NoteTaker},
+  {title:"NYT or Not", link: "something", imageURL:Nyt},
+  {title:"Password Generator", link: "something", imageURL:Password},
+  {title:"iBudget", link: "something", imageURL:Ibudget},
   
 ]
 
